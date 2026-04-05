@@ -51,12 +51,11 @@ const SECTION_QUERIES = {
     Technology: [
       "AI Enterprise Adoption India", "Generative AI Market Size", "Cloud Computing Infrastructure", "SaaS Export Revenue", "Cybersecurity Spending", "Semiconductor Manufacturing Subsidies",
       "IT Services Outsourcing", "Fintech Sector Growth", "Digital Public Infrastructure", "Startup Venture Funding", "Software Exports Growth",
-      "IT Sector Earnings", "Tech Talent Attrition Rate", "IT Sector Hiring Intent", "US H1B Visa Corporate Impact",
+      "IT Sector Earnings", "Tech Talent Attrition Rate", "IT Sector Hiring Intent", "FinTech india",
       "Data Center Expansion India", "Data Protection Legislation Impact", "Telecom Sector ARPU", "5G Infrastructure Rollout",
       "Deeptech Investments", "AgriTech Innovation", "EdTech Market Consolidation", "HealthTech Revenue", "E-commerce Gross Merchandise Value",
       "Digital Payments Ecosystem", "Payment Gateway Regulations", "Semiconductor Ecosystem India", "Electronics Manufacturing Base", "IT Consulting Revenues",
-      "Wipro", "HCL Tech", "Tech Mahindra", "Mindtree", "Semiconductor India", "AI Integration", "Zomato", "Swiggy",
-      "Oyo", "Ola", "Indian Startups", "SaaS India"
+      "Wipro", "HCL Tech", "Tech Mahindra", "Mindtree", "Semiconductor India", "AI Integration", "Indian Startups", "SaaS India"
     ],
     Commodities: [
       "Precious Metals Trading", "Bullion Market India", "Commodity Exchange Volumes", "Crude Oil Brent Volatility", "WTI Futures", "Natural Gas Pricing",
